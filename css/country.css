@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-expand-lg{
+    background-color: #10163A;
+}
+.rounded{
+    background-color: #7367f0;
+    padding: 0 10px;
+}
+.container .rounded{
+    color: #fff;
+}
+.nav-item a{
+    margin-left: 20px;
+    color: #fff;
+}
+#body{
+    background-color: #10163A;
+}
+#thead{
+    background-color: #C2C6DC;
+}
+.table{
+}
